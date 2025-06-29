@@ -9,8 +9,8 @@ Keeping score. The score is kept by recording wins for each player, as well as d
 When someone wins the game, the squares of the winning combination lights up green.
 
 **Technologies used for this project**
-HTML
-CSS
-JavaScript
+* HTML
+* CSS
+* JavaScript
 
 You can try a live demo of this Tic-Tac-Toe game [here](https://todorbonev.github.io/Tic-tac-toe).
